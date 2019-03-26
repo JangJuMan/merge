@@ -1,4 +1,3 @@
 1
 # master title
-content
-peace.handong.edu,203.252.1
+Apple content
